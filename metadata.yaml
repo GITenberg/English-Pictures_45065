@@ -6,7 +6,7 @@ covers:
 creator:
   authors:
   - agent_name: Manning, Samuel
-    birthdate: &id001 1822
+    birthdate: 1822
     deathdate: 1881
     gutenberg_agent_id: '43060'
     url: http://www.gutenberg.org/2009/agents/43060
@@ -14,11 +14,13 @@ creator:
     aliases:
     - Green, S. G.
     - Green, Samuel Gosnell
-    birthdate: *id001
+    birthdate: 1822
     deathdate: 1905
     gutenberg_agent_id: '43061'
     url: http://www.gutenberg.org/2009/agents/43061
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45065#English-Pictures
 gutenberg_issued: '2014-03-07'
 gutenberg_type: Text
 identifiers:
